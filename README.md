@@ -6,13 +6,28 @@ This digital portfolio includes the projects I have done throughout my data scie
 - Occupation: Junior Data Scientist for USG
 - Languages: Python, R, Java, Spark
 
-### Projects
+## Projects
 
-- Intro to Machine Learning (with University of Oxford Women in Computer Science Society)
-- Spider research
-- R oxford
-- Social networks
-- SQL
+<img src="https://mochakroun.com/wp-content/uploads/2025/01/langchain3.webp" width="100" height="100"/>
+
+[LangChain](https://github.com/alexispark02/LangChain)
+- insert stuff here
+
+
+Intro to Machine Learning (with University of Oxford Women in Computer Science Society)
+- insert here
+
+
+Spider research
+
+
+R oxford
+
+
+Social networks
+
+
+SQL
 
 <!--
 **alexispark02/alexispark02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
