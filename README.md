@@ -14,7 +14,7 @@ This digital portfolio includes the projects I have done throughout my data scie
 - insert stuff here
 
 
-Intro to Machine Learning (with University of Oxford Women in Computer Science Society)
+[Intro to Machine Learning: University of Oxford](https://github.com/alexispark02/Intro-to-ML/tree/main) 
 - insert here
 
 
