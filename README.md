@@ -14,20 +14,21 @@ This digital portfolio includes the projects I have done throughout my data scie
 - insert stuff here
 
 
-[Intro to Machine Learning: University of Oxford](https://github.com/alexispark02/Intro-to-ML/tree/main) 
+[University of Oxford: Intro to Machine Learning](https://github.com/alexispark02/Intro-to-ML/tree/main) 
 - insert here
 
 
 [Spider Circadian Activity](https://github.com/Toporikova-Lab/Spider-Circadian-Activity/tree/main/Calculating%20Spider%20Run%20Duration)
 - insert here
 
-R oxford
+[University of Oxford: Simulation and Statistical Programming](https://github.com/alexispark02/Simulation-and-Statistical-Programming)
+- insert here
 
+[Washington and Lee: Personal Social  Networks](https://github.com/alexispark02/Personal-Social-Networks)
+- insert here
 
-Social networks
-
-
-SQL
+[Washington and Lee: Introduction to SQL](https://github.com/alexispark02/Business-Data-Science)
+- insert here
 
 <!--
 **alexispark02/alexispark02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
