@@ -2,9 +2,9 @@
 
 This digital portfolio includes the projects I have done throughout my data science academic career during my undergraduate studies. Please click each hyperlink for more detail on each project.
 
-- Education: Senior Mathematics Major with Double Minors in Music and Data Science
-- Occupation: Junior Data Scientist for USG
-- Languages: Python, R, Java, Spark
+- 🏫 Education: Senior Mathematics Major with Double Minors in Music and Data Science
+- 📊 Occupation: Junior Data Scientist for USG
+- 🖥️ Languages: Python, R, Java, Spark
 
 ## Project Highlights
 
